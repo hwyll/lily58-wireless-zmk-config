@@ -98,13 +98,13 @@
         // ,. = {
         lbrc {
             timeout-ms = <25>;
-            key-positions = <44 45>;
+            key-positions = <46 47>;
             bindings = <&kp LBRC>;
         };
         // ./ = }
         rbrc {
             timeout-ms = <25>;
-            key-positions = <45 46>;
+            key-positions = <47 48>;
             bindings = <&kp RBRC>;
         };
 
