@@ -160,6 +160,7 @@
                 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans    &trans     &trans  &trans
                                         &trans  &trans  &trans  &trans  &trans  &lt BASE RET  &trans  &trans
             >;
+        };
 
         lnav {
             display-name = "l nav";
