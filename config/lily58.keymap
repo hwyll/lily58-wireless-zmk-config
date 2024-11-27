@@ -107,6 +107,31 @@
             key-positions = <47 48>;
             bindings = <&kp RBRC>;
         };
+
+        // ui = +
+        plus {
+            timeout-ms = <25>;
+            key-positions = <19 20>;
+            bindings = <&kp PLUS>;
+        };
+        // hj = -
+        equals {
+            timeout-ms = <25>;
+            key-positions = <30 31>;
+            bindings = <&kp EQUALS>;
+        };
+        // jk = -
+        minus {
+            timeout-ms = <25>;
+            key-positions = <31 32>;
+            bindings = <&kp MINUS>;
+        };
+        // m, = _
+        undscr {
+            timeout-ms = <25>;
+            key-positions = <45 46>;
+            bindings = <&kp UNDER>;
+        };
     };
 
     keymap {
